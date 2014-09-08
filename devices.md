@@ -21,6 +21,12 @@ A list of devices used for tracking stuff about your body.
 ** Accelerometer
 ** No clue on how it syncs, seems to have a USB jack.
 
+* [The Dash](http://www.bragi.com/)
+** Kickstarter, not shipped yet
+** Music Player
+** Heart Rate Measurement
+** Only Headphones with massive capabilities
+
 ## Misc
 * [Melon Headband](http://www.thinkmelon.com/)
 ** Kickstarter, not yet shipped
