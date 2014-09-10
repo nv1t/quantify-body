@@ -27,6 +27,13 @@ A list of devices used for tracking stuff about your body.
 ** Heart Rate Measurement
 ** Only Headphones with massive capabilities
 
+* [Epson Runsense SF-810](http://www.epson.de/de/de/viewcon/corporatesite/cms/index/11217/?#view-range)
+  * Commercial, launch Nov. 2014
+  * GPS, heart rate, step counter
+  * Bluetooth 4.0
+  * [press info (german)](http://www.epson.de/de/de/viewcon/corporatesite/press/index?gatewayto=/de/de/content/press/messages/message.php%3Fid=4724%26filtercat=archive)
+
+
 ## Misc
 * [Melon Headband](http://www.thinkmelon.com/)
 ** Kickstarter, not yet shipped
