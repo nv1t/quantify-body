@@ -27,6 +27,12 @@ A list of devices used for tracking stuff about your body.
 ** Heart Rate Measurement
 ** Only Headphones with massive capabilities
 
+* [Epson Pulsense PS-100, PS-500](http://www.epson.de/de/de/viewcon/corporatesite/cms/index/11222/#view-range)
+  * Commercial
+  * accelerometer, heart rate
+  * Bluetooth 4.0
+  * runtime 36h
+
 * [Epson Runsense SF-810](http://www.epson.de/de/de/viewcon/corporatesite/cms/index/11217/?#view-range)
   * Commercial, launch Nov. 2014
   * GPS, heart rate, step counter
