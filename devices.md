@@ -40,6 +40,19 @@ A list of devices used for tracking stuff about your body.
   * [press info (german)](http://www.epson.de/de/de/viewcon/corporatesite/press/index?gatewayto=/de/de/content/press/messages/message.php%3Fid=4724%26filtercat=archive)
 
 
+* [Basis Peak](http://www.mybasis.com/peak_ultimate_fitness_sleep_tracker)
+  * Commercial, launch Nov. 2014 ([announcement](http://www.mybasis.com/blog/2014/09/peak-announce-post/))
+  * Accelerometer
+  * Heart rate measurement
+  * Perspiration measurement
+  * Skin temperature measurement
+  * Sleep tracking
+  * Monochrome e-paper-display
+  * Bluetooth 4.0
+  * Runtime up to four days
+  * Usage as smartwatch should be possible with future update
+
+
 ## Misc
 * [Melon Headband](http://www.thinkmelon.com/)
 ** Kickstarter, not yet shipped
